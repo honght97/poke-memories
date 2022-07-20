@@ -1,14 +1,12 @@
 <script setup>
-import Card from './Card.vue';
+import Card from "./Card.vue";
 </script>
 <template>
-    <div class="screen">
-        <Card></Card>
-    </div>
+  <div class="screen">
+    <Card/>
+  </div>
 </template>
 <script>
-export default {
-
-}
+export default {};
 </script>
 
